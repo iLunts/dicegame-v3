@@ -1,0 +1,49 @@
+.distribution {
+    background-color: #202933;
+    padding: 74px 0;
+    position: relative;
+    overflow: hidden;
+    &:after {
+        display: inline-block;
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: -20px;
+        background-image: url(../img/distribution-line.svg);
+        background-position: 0px 10px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 104px;
+        width: calc(100% + 40px);
+    }
+    // &__content {
+    //     max-width: 465px;
+    //     &__title {
+    //         font-size: 36px;
+    //         font-weight: 500;
+    //         color: #fff;
+    //         margin-bottom: 20px;
+    //         font-family: 'FuturaPTMedium';
+    //         padding-right: 15px;
+    //     }
+    //     &__desc {
+    //         font-size: 17px;
+    //         color: #fff;
+    //         font-weight: 400;
+    //         padding-right: 15px;
+    //     }
+    // }
+    // > .container {
+    //     display: flex;
+    //     align-items: center;
+    //     justify-content: space-between;
+    // }
+    // &__img {
+    //     background-image: url(../img/distribution.svg);
+    //     background-position: 50%;
+    //     background-repeat: no-repeat;
+    //     background-size: contain;
+    //     width: 570px;
+    //     height: 350px;
+    // }
+}

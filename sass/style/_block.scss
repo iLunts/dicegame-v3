@@ -1,0 +1,179 @@
+@import '../base/variables';
+// Name:            Block
+//
+// ----------------------------------------------------------------------------
+// Block '.block'
+// ----------------------------------------------------------------------------
+.block {
+    position: relative;
+    box-sizing: border-box;
+    padding-top: $block-padding-vertical;
+    padding-bottom: $block-padding-vertical; // ------------------------------------------------------------------------
+    // All modificators
+    // ------------------------------------------------------------------------
+    // Modificator '.block.block--xxlg'
+    &.block--xxlg {
+        padding: ($block-padding-vertical * 7) 0;
+    } // Modificator '.block.block--xlg'
+    &.block--xlg {
+        padding: ($block-padding-vertical * 5) 0;
+    } // Modificator '.block.block--lg'
+    &.block--lg {
+        padding: ($block-padding-vertical * 3) 0;
+    } 
+    // Modificator '.block.block--particles'
+    &.block--particles {
+        p,
+        h2,
+        .btn {
+            position: relative;
+            z-index: 1;
+        }
+    } 
+    // Modificator '.block.block--particles-second'
+    &.block--particles-second {
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bc63ef+0,f79f55+100 */
+        background: #bc63ef;
+        background: -moz-linear-gradient(-45deg, #bc63ef 0%, #f79f55 100%);
+        background: -webkit-linear-gradient(-45deg, #bc63ef 0%, #f79f55 100%);
+        background: linear-gradient(135deg, #bc63ef 0%, #f79f55 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bc63ef', endColorstr='#f79f55', GradientType=1);
+
+        color: #fff;
+        margin-top: 80px;
+
+        p,
+        h2,
+        .btn,
+        img {
+            position: relative;
+            z-index: 1;
+        }
+    } 
+    // Modificator '.block.block--md'
+    &.block--check {
+        padding-top: $block-md-padding-vertical;
+        padding-bottom: $block-md-padding-vertical;
+        margin-top: 15rem;
+        margin-bottom: 5rem;
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fec180+0,f66055+100 */
+        background: #fec180;
+        background: -moz-linear-gradient(left, #fec180 0%, #f66055 100%);
+        background: -webkit-linear-gradient(left, #fec180 0%, #f66055 100%);
+        background: linear-gradient(to right, #fec180 0%, #f66055 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fec180', endColorstr='#f66055', GradientType=1);
+        color: #fff;
+        .device {
+            margin-top: -14rem;
+            top: 20em;
+        }
+        .block__text {
+            width: 90%;
+        }
+    }
+    &.block--reset {
+        padding: 0;
+    }
+    &.block--gray {
+        background-color: $block-gray-background;
+        border-top: 1px solid $border-gray-border-color;
+        border-bottom: 1px solid $border-gray-border-color;
+        &.footer {
+            border-bottom: none;
+        }
+    }
+    &.block--light--gray {
+        background-color: $block-light-gray-background;
+    }
+    &.block--light--gray--border {
+        border-top: 1px solid $border-light-gray-background;
+        border-bottom: 1px solid $border-light-gray-background;
+    }
+    &.block--average--gray {
+        background-color: $block-average-gray-background;
+        border-top: 1px solid $border-average-gray-background;
+        border-bottom: 1px solid $border-average-gray-background;
+    }
+    &.block--distribution {
+        background-color: #202933;
+        padding: 74px 0;
+        position: relative;
+        overflow: hidden;
+        color: #fff;
+        &:after {
+            display: inline-block;
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: -20px;
+            background-image: url(../img/distribution-line.svg);
+            background-position: 0px 10px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 104px;
+            width: calc(100% + 40px);
+        }
+    } // ------------------------------------------------------------------------
+    // All elements
+    // ------------------------------------------------------------------------
+    & &__particles {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+    & &__plus {
+        padding: 50px;
+        border: 2px solid $color-yellow;
+    }
+    & &__title {
+        font-size: 40px;
+        line-height: 48px;
+        font-weight: 900;
+        margin-bottom: 25px;
+        font-family: 'FuturaPTHeavy';
+    }
+    & &__subtitle {
+        font-size: 26px;
+        line-height: 34px;
+        font-weight: 600;
+        margin-bottom: 25px;
+        font-family: 'ProximaNova-Bold';
+    }
+
+    & &__text {
+        font-size: 17px;
+        font-weight: 400;
+        line-height: 24px;
+        &+.block__text {
+            margin-top: 20px;
+        }
+    }
+
+    & &__tournament__image {
+        width: 90%;
+    }
+}
+
+// ---------------------------------------------------------------------------
+// size: xSmall
+// ----------------------------------------------------------------------------
+@media only screen and (max-width: $breakpoint-xs-max) and (min-width: $breakpoint-xs-min) {
+    .block {
+
+        &.block--check{
+            margin-bottom: 0;
+            margin-top: 0;
+
+            .block__text {
+                width: 100%;
+            }
+            
+            .device{
+                margin: 30px 0;
+                top: 0;
+            }
+        }
+    }
+}

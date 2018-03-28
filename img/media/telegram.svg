@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4192 58 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00aadf;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="telegram" transform="translate(2977)">
+    <circle id="Ellipse_219" data-name="Ellipse 219" class="cls-1" cx="24" cy="24" r="24" transform="translate(1215 58)"/>
+    <g id="telegram-2" data-name="telegram" transform="translate(1226 52.599)">
+      <path id="XMLID_497_" class="cls-2" d="M.406,28.99,5.7,30.966l2.049,6.589a.623.623,0,0,0,.99.3l2.95-2.405a.88.88,0,0,1,1.073-.03l5.321,3.863a.624.624,0,0,0,.977-.377l3.9-18.751a.624.624,0,0,0-.835-.709L.4,27.823A.624.624,0,0,0,.406,28.99Zm7.011.924,10.344-6.371a.18.18,0,0,1,.218.285L9.442,31.764a1.77,1.77,0,0,0-.548,1.059L8.6,34.978a.267.267,0,0,1-.522.038l-1.118-3.93A1.042,1.042,0,0,1,7.417,29.914Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

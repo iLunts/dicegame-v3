@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="726 691 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0070c9;
+      }
+    </style>
+  </defs>
+  <g id="pie-chart" transform="translate(726 691)">
+    <path id="Path_356" data-name="Path 356" class="cls-1" d="M9.688,1.688A11.027,11.027,0,0,1,19.813,11.813H9.688ZM8.844,0H8V13.5H21.5v-.844A12.748,12.748,0,0,0,8.844,0Z" transform="translate(5.5)"/>
+    <path id="Path_357" data-name="Path 357" class="cls-1" d="M11.813,14.5V1a12.671,12.671,0,1,0,13.5,13.5Z" transform="translate(0 0.688)"/>
+  </g>
+</svg>

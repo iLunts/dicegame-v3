@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="357 6829.518 1366 95.993">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        opacity: 0.677;
+      }
+
+      .cls-2, .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        opacity: 0.665;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" y2="0.056" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9a3655" stop-opacity="0.651"/>
+      <stop offset="1" stop-color="#f66055"/>
+    </linearGradient>
+  </defs>
+  <g id="Chart_7" data-name="Chart 7" class="cls-1" transform="translate(935.517 6525)">
+    <g id="Liquid_Chart" data-name="Liquid Chart" transform="translate(-578.517 194)">
+      <g id="Intake_Chart" data-name="Intake Chart" transform="translate(0 110.518)">
+        <path id="Path_14" data-name="Path 14" class="cls-2" d="M1168.222,124.818c-306.576,0-889.637-.052-987.717-.052-133.807,0-186.288,1.125-186.288,0s0-95.493,0-95.493S155.073,56.457,317.633,58.025C509.368,59.874,558.345,45.87,851.417,42.85c257.608-2.655,508.766,28.8,508.766,28.8s.007,53.163,0,53.17S1302.584,124.818,1168.222,124.818Z" transform="translate(5.783 -29.272)"/>
+        <path id="Path_13" data-name="Path 13" class="cls-3" d="M1360.183,96.747s.078,70.5,0,71.655-58.373,0-193.1,0H189.052c-124.959,0-194.835.682-194.835,0V101.017s157.327-10.479,367.9-7.834c191.735,2.408,342.441,26.337,619.6,26.729S1360.183,96.747,1360.183,96.747Z" transform="translate(5.783 -73.367)"/>
+      </g>
+    </g>
+  </g>
+</svg>

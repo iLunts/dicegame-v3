@@ -1,0 +1,75 @@
+// .tournament {
+//     padding: 65px 0;
+//     padding-bottom: 160px;
+//     &__title {
+//         text-align: center;
+//         font-family: 'FuturaPTHeavy';
+//         font-weight: 900;
+//         font-size: 40px;
+//         margin-bottom: 58px;
+//     }
+//     > .container {
+//         display: flex;
+//         align-items: center;
+//         justify-content: space-between;
+//     }
+//     &__img {
+//         max-width: 500px;
+//         width: 100%;
+//     }
+//     &__content {
+//         max-width: 420px;
+//         &__title {
+//             font-family: 'FuturaPTBold';
+//             font-weight: 700;
+//             font-size: 26px;
+//             margin-bottom: 10px;
+//         }
+//         &__desc {
+//             font-size: 17px;
+//             font-weight: 400;
+//             line-height: 24px;
+//             margin-bottom: 10px;
+//         }
+//         &__list {
+//             &__item {
+//                 margin-bottom: 20px;
+//                 position: relative;
+//                 padding-left: 30px;
+//                 &:before {
+//                     content: '';
+//                     display: inline-block;
+//                     left: 0;
+//                     top: 2px;
+//                     width: 17px;
+//                     height: 17px;
+//                     background-image: url(../img/radial.svg);
+//                     background-position: 50%;
+//                     background-size: contain;
+//                     background-repeat: no-repeat;
+//                     position: absolute;
+//                 }
+//                 &__title {
+//                     font-size: 17px;
+//                     font-weight: 600;
+//                     font-family: 'ProximaNova-Semibold';
+//                 }
+//                 &__desc {
+//                     line-height: 21px;
+//                     font-size: 17px;
+//                 }
+//             }
+//         }
+//         .counter__docs__whitepaper {
+//             height: 36px;
+//             background-color: #0088D0;
+//             border-radius: 3px;
+//             color: #fff;
+//             text-decoration: none;
+//             font-size: 16px;
+//             margin-top: 27px;
+//             padding: 8px 12px;
+//             border-bottom: 3px solid #0776B1;
+//         }
+//     }
+// }

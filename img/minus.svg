@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="984 10662 23 23">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #878787;
+      }
+
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip);
+      }
+    </style>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+  </defs>
+  <g id="Group_896" data-name="Group 896" transform="translate(-50 591)">
+    <g id="Rectangle_318" data-name="Rectangle 318" class="cls-1" transform="translate(1034 10071)">
+      <rect class="cls-3" width="23" height="23" rx="6"/>
+      <rect class="cls-4" x="1" y="1" width="21" height="21" rx="5"/>
+    </g>
+    <g id="Group_872" data-name="Group 872" transform="translate(-19.5 1.367)">
+      <g id="Rectangle_320" data-name="Rectangle 320" class="cls-2" transform="translate(1071.5 10080.633) rotate(90)">
+        <rect id="fill" class="cls-3" width="2" height="13" rx="1"/>
+        <path class="cls-5" d="M0,1.5h1.999924898147583M1.5,0v13M1.999924898147583,11.5h-1.999924898147583M0.499924898147583,13v-13"/>
+      </g>
+    </g>
+  </g>
+</svg>

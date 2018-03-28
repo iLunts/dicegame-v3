@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="658 5935 602 282.635">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #504b81;
+      }
+
+      .cls-5 {
+        fill: #007ca9;
+      }
+
+      .cls-6 {
+        fill: #005680;
+      }
+
+      .cls-7 {
+        fill: #00adff;
+      }
+
+      .cls-8 {
+        fill: #b4ecff;
+      }
+
+      .cls-9 {
+        fill: #202933;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #fff;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-10 {
+        font-size: 15px;
+      }
+
+      .cls-11 {
+        font-size: 17px;
+      }
+
+      .cls-12 {
+        filter: url(#Path_265);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Exclusion_1" data-name="Exclusion 1" class="cls-1" d="M120.818,241.635a121.71,121.71,0,0,1-24.349-2.455A120.157,120.157,0,0,1,53.268,221,121.17,121.17,0,0,1,9.495,167.846a120.207,120.207,0,0,1-7.04-22.679,122,122,0,0,1,0-48.7,120.157,120.157,0,0,1,18.179-43.2A121.171,121.171,0,0,1,73.79,9.495a120.209,120.209,0,0,1,22.679-7.04,122,122,0,0,1,48.7,0,120.156,120.156,0,0,1,43.2,18.179A121.17,121.17,0,0,1,232.141,73.79a120.21,120.21,0,0,1,7.04,22.679,122,122,0,0,1,0,48.7A120.157,120.157,0,0,1,221,188.368a121.169,121.169,0,0,1-53.156,43.773,120.208,120.208,0,0,1-22.679,7.04A121.71,121.71,0,0,1,120.818,241.635Zm0-192.733a71.915,71.915,0,1,0,71.915,71.915A72,72,0,0,0,120.818,48.9Z" transform="translate(0 0)"/>
+    </clipPath>
+    <filter id="Path_265" x="856.512" y="5952.6" width="160.932" height="160.844" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_25" data-name="Group 25" transform="translate(802 1385)">
+    <path id="Path_326" data-name="Path 326" class="cls-2" d="M69.977,4562.571l-33.552-7.757" transform="matrix(1, 0.017, -0.017, 1, 96.797, 113.008)"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-3" transform="translate(81 4591)">
+      <g class="cls-12" transform="matrix(1, 0, 0, 1, -883, -5976)">
+        <path id="Path_265-2" data-name="Path 265" class="cls-4" d="M823.958,4796.992l-130.932-76.773v-54.071Z" transform="translate(178.49 1298.45)"/>
+      </g>
+      <path id="Path_264" data-name="Path 264" class="cls-5" d="M691.812,4665.872l132.419,131.043-64.264-131.043Z" transform="translate(-704.787 -4677.47)"/>
+      <path id="Path_266" data-name="Path 266" class="cls-6" d="M691.716,4685.994l1.31,109.519L823.1,4816.987Z" transform="translate(-704.514 -4698.44)"/>
+      <path id="Path_267" data-name="Path 267" class="cls-7" d="M692.44,4799.79l1.56,87.974,130.232-49.246Z" transform="translate(-704.787 -4719.686)"/>
+      <path id="Path_268" data-name="Path 268" class="cls-8" d="M760.368,4667H957.64l.286,264.477H693.942v-85.9l129.988-48.388Z" transform="translate(-704.771 -4677.787)"/>
+    </g>
+    <circle id="Ellipse_74" data-name="Ellipse 74" class="cls-9" cx="91.854" cy="91.854" r="91.854" transform="translate(109.464 4619.464)"/>
+    <text id="_68_" data-name="68%" class="cls-10" transform="translate(334 4716)"><tspan x="0" y="0">68%</tspan></text>
+    <text id="_20_" data-name="20%" class="cls-10" transform="translate(41 4717)"><tspan x="0" y="0">20%</tspan></text>
+    <text id="_7_" data-name="7%" class="cls-10" transform="translate(69 4641)"><tspan x="0" y="0">7%</tspan></text>
+    <text id="_5_" data-name="5%" class="cls-10" transform="translate(111 4601)"><tspan x="0" y="0">5%</tspan></text>
+    <text id="Lawer_s_and_consultant_s" data-name="Lawer`s and consultant`s" class="cls-11" transform="translate(-52 4651)"><tspan x="-91.171" y="0">Lawer`s and consultant`s</tspan></text>
+    <text id="Development" class="cls-11" transform="translate(-38 4747)"><tspan x="-50.159" y="0">Development</tspan></text>
+    <text id="Other_expences" data-name="Other expences" class="cls-11" transform="translate(56 4566)"><tspan x="-59.67" y="0">Other expences</tspan></text>
+    <text id="Marketing" class="cls-11" transform="translate(420 4716)"><tspan x="-37.264" y="0">Marketing</tspan></text>
+    <path id="Path_324" data-name="Path 324" class="cls-2" d="M154.791,4474.527l-12.728-28" transform="translate(-6.774 129.342)"/>
+    <path id="Path_325" data-name="Path 325" class="cls-2" d="M72.007,4627.272,34.459,4640.6" transform="translate(16.194 125)"/>
+    <path id="Path_327" data-name="Path 327" class="cls-2" d="M108.985,4485.811l-24.04-22.267" transform="translate(7.319 140.979)"/>
+  </g>
+</svg>

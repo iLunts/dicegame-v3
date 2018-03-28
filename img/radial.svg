@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="784 5291 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.171" y1="0.125" x2="0.915" y2="0.79" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f79f55"/>
+      <stop offset="1" stop-color="#f66055"/>
+    </linearGradient>
+  </defs>
+  <path id="Subtraction_11" data-name="Subtraction 11" class="cls-1" d="M8.5,17A8.5,8.5,0,1,1,17,8.5,8.51,8.51,0,0,1,8.5,17Zm0-13A4.5,4.5,0,1,0,13,8.5,4.505,4.505,0,0,0,8.5,4Z" transform="translate(784 5291)"/>
+</svg>

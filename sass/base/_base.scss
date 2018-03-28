@@ -1,0 +1,108 @@
+/**********************
+* Base style
+**********************/
+html,
+body {
+  height: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Light';
+    src: url('../fonts/proximanova/ProximaNova-Light.otf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Regular';
+    src: url('../fonts/proximanova/ProximaNova-Regular.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Semibold';
+    src: url('../fonts/proximanova/ProximaNova-Semibold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova-Bold';
+    src: url('../fonts/proximanova/ProximaNova-Bold.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaPTMedium';
+    src: url('../fonts/futura/FuturaPTMedium.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaPTBold';
+    src: url('../fonts/futura/FuturaPTBold.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaPTHeavy';
+    src: url('../fonts/futura/FuturaPTHeavy.otf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+html{
+    font-size: 17px;
+}
+
+video{
+    width: 100%;
+    max-width: 100%;
+}
+
+body {
+  background: #fff;
+  font-family: 'PT sans', sans-serif;
+  font-size: 10px;
+  color: #2A2E3D;
+  font-weight: 400;
+  min-width: 320px;
+    * {
+        box-sizing: border-box;
+        font-family: 'ProximaNova-Regular';
+    }
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+    vertical-align: middle;
+}
+
+section {
+  position: relative;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+br {
+  font-size: 0;
+}
+
+.container {
+    max-width: 1200px;
+//    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}

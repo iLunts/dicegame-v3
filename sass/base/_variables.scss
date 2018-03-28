@@ -1,0 +1,159 @@
+// out:                              ../../css/components/variables.css, compress: true
+// Base
+// $font-family-site:                'Open Sans', sans-serif;
+// $font-family-site:                'Oswald', sans-serif;
+$font-family-site:                   'FuturaPTMedium',
+sans-serif;
+$font-family-icon:                   'icomoon';
+// Breakpoints
+$breakpoint-fluid:                   100%;
+// New breadckpoint
+$breakpoint-xs-min:                  320px;
+$breakpoint-sm-min:                  768px;
+$breakpoint-md-min:                  1024px;
+$breakpoint-lg-min:                  1220px;
+$breakpoint-xlg-min:                 1600px;
+$breakpoint-xs-max:                  ($breakpoint-sm-min - 1);
+$breakpoint-sm-max:                  ($breakpoint-md-min - 1);
+$breakpoint-md-max:                  ($breakpoint-lg-min - 1);
+$breakpoint-lg-max:                  ($breakpoint-xlg-min - 1);
+// Color
+// $color-green-dark:                #4caf50;
+$color-blue:                         #0088D0;
+$color-blue-dark:                    #1976d2;
+$color-red:                          #EE373E;
+$color-green:                        #4caf50;
+$color-green-dark:                   #41a045;
+$color-yellow:                       #ffdb4d;
+$color-brown:                        #7b4f00;
+$color-gray:                         #8190a3;
+$color-white:                        #fff;
+$color-active-roadmap-circle:        #F66055;
+// Breadcrumb
+$breadcrumb-text-color:              #6F6F6F;
+$breadcrumb-padding:                 10px;
+$breadcrumbs-height:                 50px;
+// Panel
+$panel-padding:                      15px;
+// Margin
+$margin:                             30px;
+$margin-padding:                     20px;
+$margin-padding--small:              $margin-padding / 2;
+$margin-pading--big:                 ($margin-padding / 2)+$margin-padding;
+// Checkbox
+$checkbox-height:                    20px;
+$checkbox-font-size:                 14px;
+$checkbox-line-height:               14px;
+// Table
+$table-fixed-tr-55:                  55px;
+$table-margin-vertical:              15px;
+$table-padding-vertical:             12px;
+$table-padding-horizontal:           10px;
+$table-caption-color:                #999;
+$table-caption-font-size:            12px;
+$table-striped-background:           #f5f5f5;
+$table-condensed-padding-vertical:   4px;
+$table-condensed-padding-horizontal: 8px;
+$table-hover-background:             #f7f7f7;
+$table-active-background:            $table-hover-background;
+$table-td-border-color:              #e5e5e5;
+$table-th-border-color:              #BFBFBF;
+// Icon
+$icon-height:                        15px;
+$icon-small-font-size:               150%;
+$icon-medium-font-size:              200%;
+$icon-large-font-size:               250%;
+$icon-small-vertical-align:          -10%;
+$icon-medium-vertical-align:         -16%;
+$icon-large-vertical-align:          -22%;
+// Link
+$link-margin:                        20px;
+// Btn
+$btn-padding:                        20px;
+$btn-line-height:                    36px;
+// Text
+$text-color-muted:                   #999;
+$text-color-green:                   #8cc14c;
+$text-color-red:                     #EE3442;
+$text-color-blue:                    #0091ca;
+$text-color-yellow:                  #fbd73e;
+$text-color-orange:                  #FF8800;
+// Upload
+$upload-progress-height:             10px;
+$upload-progress-height-xs:          ($upload-progress-height / 2);
+// Badge
+$badge-background:                   #eee;
+$badge-padding-horizontal:           5px;
+$badge-margin-left:                  3px;
+$badge-font-size:                    10px;
+$badge-font-weight:                  400;
+$badge-line-height:                  15px;
+$badge-color:                        #444;
+$badge-text-transform:               none;
+$badge-hover-color:                  #fff;
+$badge-border-radius:                3px;
+$badge-notification-font-size:       12px;
+$badge-notification-line-height:     18px;
+$badge-background-gray:              #8190A3;
+$badge-background-success:           #8cc14c;
+$badge-background-warning:           #faa732;
+$badge-background-yellow:            $color-yellow;
+$badge-background-blue:              $color-blue;
+$badge-background-purple:            #7571d6;
+$badge-background-danger:            #da314b;
+// Input
+$input-margin:                       10px;
+$input-text-color:                   #333;
+$input-background:                   #fff;
+$input-border-color:                 #ddd;
+$input-border-bottom-color:          #ddd;
+$input-border-bottom-color-active:   #FFC716;
+$input-search-border-color:          #dadada;
+$input-border-radius:                0;
+$input-border-radius--big:           100px;
+$input-tags-border-color:            #bdbdbd;
+// Label
+$label-font-size:                    0.625rem;
+$label-line-height:                  $label-font-size+0.25rem;
+$label-color:                        #828282;
+$label-margin:                       5px;
+// Block
+$block-padding-vertical:             20px;
+$block-lg-padding-vertical:          ($block-padding-vertical * 5);
+$block-md-padding-vertical:          ($block-padding-vertical * 2.5);
+$block-gray-background:              #fafafa;
+$block-light-gray-background:        #fdfdfd;
+$block-average-gray-background:      #eef0f3;
+$border-gray-background:             #cbcbcb;
+$border-gray-border-color:           #E7E8EB;
+$border-light-gray-background:       #e7e8eb;
+$border-average-gray-background:     #d6dadf;
+// Avatar
+$avatar-height:                      40px;
+// $avatar-height-xlarge:            $avatar-height * 5;
+// $avatar-height-large:             $avatar-height * 3;
+// $avatar-height-medium:            $avatar-height / 1.33333333333333;
+// $avatar-height-small:             $avatar-height / 2;
+$avatar-height-xxlg:                 $avatar-height * 4;
+$avatar-height-xlarge:               $avatar-height * 3;
+$avatar-height-large:                $avatar-height * 2;
+$avatar-height-medium:               $avatar-height * 1.5;
+$avatar-height-small:                $avatar-height / 1.5;
+$avatar-height-mini:                 $avatar-height / 2;
+$avatar-height-micro:                $avatar-height / 2.5;
+$avatar-font-size:                   1.5rem;
+$avatar-font-size-xxlg:              5rem;
+$avatar-font-size-xlarge:            3.5rem;
+$avatar-font-size-large:             2rem;
+$avatar-font-size-medium:            1rem;
+$avatar-background-empty:            #fff;
+$avatar-border-color-dashed:         #ddd;
+$avatar-border-color-solid:          #eee;
+// FAQ
+$border-color:                       #e9edf5;
+$questions-item-hover-background:    #f8f9fb;
+// Features
+$features-item-child-3-background:   #6f5163;
+$features-item-child-5-background:   #3AB88C;
+$features-item-child-8-background:   #FEAE47;
+$features-item-child-9-background:   #6BC9E6;

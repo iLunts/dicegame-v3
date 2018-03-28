@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-838 325 68 44.552">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-2 {
+        fill: #ff4b55;
+      }
+
+      .cls-3 {
+        fill: #41479b;
+      }
+    </style>
+  </defs>
+  <g id="russia" transform="translate(-838 236.724)">
+    <path id="Path_760" data-name="Path 760" class="cls-1" d="M62.907,88.276H5.093A5.093,5.093,0,0,0,0,93.369v9.758H68V93.369A5.093,5.093,0,0,0,62.907,88.276Z"/>
+    <path id="Path_761" data-name="Path 761" class="cls-2" d="M0,321.666a5.093,5.093,0,0,0,5.093,5.093H62.907A5.093,5.093,0,0,0,68,321.666v-9.758H0Z" transform="translate(0 -193.931)"/>
+    <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-3" width="68" height="14.85" transform="translate(0 103.126)"/>
+  </g>
+</svg>

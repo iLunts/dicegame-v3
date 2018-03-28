@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="546 8935 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0088d0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: Helvetica;
+      }
+    </style>
+  </defs>
+  <g id="Group_899" data-name="Group 899" transform="translate(357 142)">
+    <rect id="Rectangle_312" data-name="Rectangle 312" class="cls-1" width="27" height="27" rx="4" transform="translate(189 8793)"/>
+    <text id="In" class="cls-2" transform="translate(196 8811)"><tspan x="0" y="0">In</tspan></text>
+  </g>
+</svg>
